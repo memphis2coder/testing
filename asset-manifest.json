@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/memphis2coder.github.io/testing.git/static/css/main.b100e6da.chunk.css",
-    "main.js": "/memphis2coder.github.io/testing.git/static/js/main.2a9dcc99.chunk.js",
-    "main.js.map": "/memphis2coder.github.io/testing.git/static/js/main.2a9dcc99.chunk.js.map",
-    "runtime-main.js": "/memphis2coder.github.io/testing.git/static/js/runtime-main.89c3ad1c.js",
-    "runtime-main.js.map": "/memphis2coder.github.io/testing.git/static/js/runtime-main.89c3ad1c.js.map",
-    "static/js/2.90147259.chunk.js": "/memphis2coder.github.io/testing.git/static/js/2.90147259.chunk.js",
-    "static/js/2.90147259.chunk.js.map": "/memphis2coder.github.io/testing.git/static/js/2.90147259.chunk.js.map",
-    "index.html": "/memphis2coder.github.io/testing.git/index.html",
-    "precache-manifest.32df8c6ecffa5d883273ee59a8f49d72.js": "/memphis2coder.github.io/testing.git/precache-manifest.32df8c6ecffa5d883273ee59a8f49d72.js",
-    "service-worker.js": "/memphis2coder.github.io/testing.git/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/memphis2coder.github.io/testing.git/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/testing.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/testing.git/static/js/main.1e95afeb.chunk.js",
+    "main.js.map": "/testing.git/static/js/main.1e95afeb.chunk.js.map",
+    "runtime-main.js": "/testing.git/static/js/runtime-main.af705bb1.js",
+    "runtime-main.js.map": "/testing.git/static/js/runtime-main.af705bb1.js.map",
+    "static/js/2.90147259.chunk.js": "/testing.git/static/js/2.90147259.chunk.js",
+    "static/js/2.90147259.chunk.js.map": "/testing.git/static/js/2.90147259.chunk.js.map",
+    "index.html": "/testing.git/index.html",
+    "precache-manifest.3bb8cc01cbe9e8931a3137d1073b08fc.js": "/testing.git/precache-manifest.3bb8cc01cbe9e8931a3137d1073b08fc.js",
+    "service-worker.js": "/testing.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/testing.git/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.89c3ad1c.js",
+    "static/js/runtime-main.af705bb1.js",
     "static/js/2.90147259.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.2a9dcc99.chunk.js"
+    "static/js/main.1e95afeb.chunk.js"
   ]
 }
